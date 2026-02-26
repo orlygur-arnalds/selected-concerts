@@ -1,4 +1,3 @@
-[Orlygur_Steinar_ Arnalds_CV_2026.html](https://github.com/user-attachments/files/25579097/Orlygur_Steinar_.Arnalds_CV_2026.html)
 <!DOCTYPE html>
 <!-- Created by pdf2htmlEX (https://github.com/pdf2htmlEX/pdf2htmlEX) -->
 <html xmlns="http://www.w3.org/1999/xhtml">
